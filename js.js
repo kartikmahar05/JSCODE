@@ -1,7 +1,7 @@
 //what is array?
 //araay is a collection of same or different datatype stored in a contiguos form.
 
-let a=["Yuvraj","Abhishek","himanshu","Kartik",6,8996,66,90]
+let a=["manmansh","Abhishek","himanshu","Kartik",6,8996,66,90]
 console.log(a.splice(2,2))
 console.log(a.slice(1))
 // let a2=[3,5,6,8,8,9,6,54]
